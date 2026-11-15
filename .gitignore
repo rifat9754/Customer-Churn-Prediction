@@ -1,0 +1,22 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Model files
+models/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# macOS
+.DS_Store
