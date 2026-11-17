@@ -6,6 +6,9 @@ data/processed/
 models/*.pkl
 models/*.joblib
 
+!models/customer_churn_xgboost.pkl
+!models/decision_threshold.pkl
+
 # Python
 __pycache__/
 *.pyc
@@ -20,3 +23,5 @@ venv/
 
 # macOS
 .DS_Store
+
+
