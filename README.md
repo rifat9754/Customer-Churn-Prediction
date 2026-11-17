@@ -511,8 +511,8 @@ Do not commit `.venv/`, `.env`, `.git/`, `__pycache__/`, `.pytest_cache/`, or un
 
 **Your Name**
 
-- GitHub: `https://github.com/<your-username>`
-- LinkedIn: `https://www.linkedin.com/in/<your-profile>/`
+- GitHub: `https://github.com/rifat9754`
+- LinkedIn: `https://www.linkedin.com/in/ahanaf-tahmid-rifat-220663345/`
 
 ---
 
