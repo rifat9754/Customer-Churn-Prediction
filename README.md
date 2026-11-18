@@ -145,6 +145,32 @@ A customer is classified as `Churn` when the predicted churn probability is grea
 
 These are experimental results on the supplied dataset, not a guarantee of performance on new business data. The threshold reflects a precision/recall trade-off and may need recalibration for a different business objective or population.
 
+## Application Screenshots
+
+### 1. Dashboard Overview
+
+<p align="center">
+  <img src="screenshots/01-dashboard-overview.png" width="800" alt="Dashboard Overview">
+</p>
+
+### 2. Model Analytics
+
+<p align="center">
+  <img src="screenshots/02-model-analytics.png" width="800" alt="Model Analytics">
+</p>
+
+### 3. Churn Prediction Form
+
+<p align="center">
+  <img src="screenshots/03-churn-prediction.png" width="800" alt="Churn Prediction Form">
+</p>
+
+### 4. Prediction Result
+
+<p align="center">
+  <img src="screenshots/04-prediction-result.png" width="800" alt="Prediction Result">
+</p>
+
 ## Project Structure
 
 ```text
@@ -509,10 +535,10 @@ Do not commit `.venv/`, `.env`, `.git/`, `__pycache__/`, `.pytest_cache/`, or un
 
 ## Author
 
-**Your Name**
+**Md. Ahanaf Tahmid**
 
-- GitHub: `https://github.com/rifat9754`
-- LinkedIn: `https://www.linkedin.com/in/ahanaf-tahmid-rifat-220663345/`
+- GitHub: [github.com/rifat9754](https://github.com/rifat9754)
+- LinkedIn: [Md. Ahanaf Tahmid](https://www.linkedin.com/in/ahanaf-tahmid-rifat-220663345/)
 
 ---
 
